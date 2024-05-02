@@ -2,7 +2,7 @@
 
 Test task for Clear Solutions
 
-This project is a simple User Management Restul API developed using Spring Boot. It provides functionalities for creating, updating, and searching for users. The API does not use a database, and instead operates with a transient storage solution.
+This project is a simple User Management Restul API developed using Spring Boot. It provides functionalities for creating, updating, and searching for users.
 
 Features:
 
@@ -15,8 +15,7 @@ Features:
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ### Prerequisites - Required software
 * Java 17
 * PostgreSQL
